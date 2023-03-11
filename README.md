@@ -31,4 +31,5 @@ I used these contents on Windows 10 OS
 - [LICENSE](https://github.com/balaji303/Learn_MakeFile/blob/main/LICENSE)
 
 ### Credit
+Thanks to GNU's Make [Manual](https://www.gnu.org/software/make/manual/make.pdf)
 Thanks to [MakeFileTutorial.com](https://makefiletutorial.com/)
