@@ -1,3 +1,3 @@
 @echo off
-make all
+make hello
 timeout /t 5
