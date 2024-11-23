@@ -55,3 +55,7 @@ I used these contents on Windows 10 OS
 Thanks to GNU's Make [Manual](https://www.gnu.org/software/make/manual/make.pdf)
 
 Thanks to [MakeFileTutorial.com](https://makefiletutorial.com/)
+
+[Tips](https://www.designnews.com/embedded-systems/5-tips-writing-makefile-embedded-software)
+
+[Implicit Rules](https://www.gnu.org/software/make/manual/make.html#Implicit-Rules)
